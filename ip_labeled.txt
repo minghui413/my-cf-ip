@@ -1,2 +1,10 @@
-﻿172.66.146.250     HK    (cfst:HKG ) 42.1ms
-162.159.82.111     SG    (cfst:SIN ) 76.6ms
+﻿104.21.33.97       HK    (cfst:HKG ) 41.4ms
+23.249.17.25       JP    (cfst:NRT ) 44.13ms
+162.159.82.185     SG    (cfst:SIN ) 76.13ms
+103.193.172.164    HK    (cfst:HKG ) 76.25ms
+213.188.223.161    NL    (cfst:AMS ) 80.87ms
+165.245.144.113    SG    (cfst:SIN ) 95.45ms
+85.121.50.16       JP    (cfst:NRT ) 105.7ms
+103.181.177.88     BOM   (cfst:BOM ) 157.63ms
+139.84.174.65      DEL   (cfst:DEL ) 162.96ms
+139.84.197.94      MEL   (cfst:MEL ) 177.36ms
